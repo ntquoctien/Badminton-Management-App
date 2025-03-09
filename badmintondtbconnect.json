@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "395131e4-d850-47ad-a19a-c58225e0becf",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1741520902894"
+        }
+      },
+      "favorite": {
+        "name": "QuanLySan",
+        "color": "color1"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://datanhom3:hungtienquankhoa@clusterkhoa.1b5ey.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
